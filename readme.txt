@@ -12,3 +12,7 @@ pull
 
 
 delete dev
+
+
+
+stash
